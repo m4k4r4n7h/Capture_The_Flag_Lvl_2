@@ -5,5 +5,5 @@ mv pass.jpg randomimage.jpg
 mv randomimage.jpg ../
 mv controller.sh ../
 cd ..
-rm -rf .gitcomponents
+
 
