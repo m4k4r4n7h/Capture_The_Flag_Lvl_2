@@ -17,7 +17,11 @@ clear
 echo 1 | figlet | lolcat
 sleep 1
 clear
-
+figlet Will You? | lolcat
+echo " "
+echo "                                         ~A ctf by alpha90"
+echo " "
+echo " "
 echo ""
 sleep 2
 clear
